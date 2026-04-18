@@ -1,4 +1,6 @@
 # MERN Student Management App
+<img width="1720" height="908" alt="image" src="https://github.com/user-attachments/assets/61a288a3-1227-4d7f-969a-a6b6c73a8ac8" />
+
 
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) for managing student information.
 
