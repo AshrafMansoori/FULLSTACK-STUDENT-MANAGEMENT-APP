@@ -1,0 +1,60 @@
+table {
+  width: 70%;
+  margin: 20px auto;
+  margin-left: 270px;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Header */
+thead {
+  background: linear-gradient(135deg, #2563EB, #10B981);
+  color: white;
+}
+
+th {
+  padding: 12px;
+  text-align: left;
+  font-weight: 600;
+}
+
+/* Body */
+td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/* Zebra effect */
+tbody tr:nth-child(even) {
+  background-color: #f8fafc;
+}
+
+/* Hover effect */
+tbody tr:hover {
+  background-color: #e0f2fe;
+  transition: 0.3s;
+}
+
+/* Delete button */
+button {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #dc2626;
+}
+#viewtext{
+    width: 900px;
+  display: flex;
+  flex-direction: column;
+  
+}
